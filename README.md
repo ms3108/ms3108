@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Misna
-*A CSE student passionate about AI, DevOps, and modern web development.*
+*A CSE student passionate about ML, DevOps, and modern web development.*
 
 ---
 
